@@ -1,4 +1,4 @@
-# Numspy
+# Numspy 0.1
 
 A python module for sending free sms as well as finding details of mobile number via website 
 <a href="http://www.way2sms.com">Way2sms</a>
@@ -11,7 +11,7 @@ pip3 install numspy
 ```
 # Usage
 
-# Send SMS
+Send SMS
 
 ```
     from Numspy import Way2sms
@@ -25,7 +25,7 @@ pip3 install numspy
     w2s.logout()
 ```
 
-# Schedule SMS
+Schedule SMS
 
 ```
     from numspy import Way2sms
@@ -39,7 +39,7 @@ pip3 install numspy
 
     w2s.logout()
 ```
-# Find Details of a Mobile number
+Find Details of a Mobile number
 
 ```
     from numspy import Way2sms
