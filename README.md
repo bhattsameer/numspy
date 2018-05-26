@@ -1,4 +1,4 @@
-# Numspy 0.1 [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/)
+# Numspy 1.0 [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/)
 
 <img src="https://github.com/bhattsameer/numspy/blob/master/logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
@@ -10,6 +10,7 @@ A python module for sending free sms as well as finding details of mobile number
 ```
 pip3 install numspy
 ```
+https://pypi.org/project/numspy/
 
 # Usage
 
@@ -57,3 +58,4 @@ Find Details of a Mobile number
 ```
 
 Feel free to make a pull request! :)
+for more details visit check: https://pypi.org/project/numspy/
