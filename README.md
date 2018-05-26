@@ -1,9 +1,11 @@
-# Numspy 0.1
+# Numspy 0.1 [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/)
+
+<img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
 A python module for sending free sms as well as finding details of mobile number via website 
 <a href="http://www.way2sms.com">Way2sms</a>
+[![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/)
 
-<img src="https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg"/>
 
 # Installation
 ```
