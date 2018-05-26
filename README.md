@@ -16,7 +16,14 @@ pip3 install numspy
 # Requirements
 ```
 Way2sms account
+```
 
+# module used 
+```
+BeautifulSoup4
+huepy
+requests
+urllib.request
 ```
 
 # Usage
