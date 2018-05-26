@@ -1,4 +1,4 @@
-# Numspy 1.0 [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/)
+# Numspy 1.0 [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/) [![PyPI](https://img.shields.io/badge/Made%20with-PyPI-1f425f.svg)](http://www.pypi.org/project/numspy)
 
 <img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
