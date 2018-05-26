@@ -1,6 +1,6 @@
 # Numspy 1.0 [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/)
 
-<img src="https://github.com/bhattsameer/numspy/blob/master/logo.png" alt="NumSpy logo" width="150px" height="150px"/>
+<img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
 A python module for sending free sms as well as finding details of mobile number via website 
 <a href="http://www.way2sms.com">Way2sms</a>
@@ -10,7 +10,8 @@ A python module for sending free sms as well as finding details of mobile number
 ```
 pip3 install numspy
 ```
-https://pypi.org/project/numspy/
+<a href="https://pypi.org/project/numspy/
+">https://pypi.org/project/numspy/</a>
 
 # Usage
 
@@ -58,4 +59,6 @@ Find Details of a Mobile number
 ```
 
 Feel free to make a pull request! :)
-for more details visit check: https://pypi.org/project/numspy/
+for more details visit check: 
+<a href="https://pypi.org/project/numspy/
+">https://pypi.org/project/numspy/</a>
