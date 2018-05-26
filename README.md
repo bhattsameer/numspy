@@ -42,7 +42,7 @@ urllib.request
     w2s.logout()
 ```
 
-Schedule SMS
+<b> Schedule SMS </b>
 
 ```
     from numspy import Way2sms
@@ -57,7 +57,7 @@ Schedule SMS
     w2s.logout()
 ```
 
-Find Details of a Mobile number
+<b> Find Details of any Mobile Number </b>
 
 ```
     from numspy import Way2sms
