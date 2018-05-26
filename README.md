@@ -18,7 +18,7 @@ pip3 install numspy
 Way2sms account
 ```
 
-# module used 
+# Modules used 
 ```
 BeautifulSoup4
 huepy
@@ -28,7 +28,7 @@ urllib.request
 
 # Usage
 
-Send SMS
+<b>Send SMS</b>
 
 ```
     from Numspy import Way2sms
