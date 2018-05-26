@@ -3,7 +3,7 @@
 A python module for sending free sms as well as finding details of mobile number via website 
 <a href="http://www.way2sms.com">Way2sms</a>
 
-<img src="https://img.shields.io/badge/Made%20with-Python-3.x-1f425f.svg"/>
+<img src="https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg"/>
 
 # Installation
 ```
