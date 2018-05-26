@@ -31,44 +31,44 @@ urllib.request
 <b>Send SMS</b>
 
 ```
-    from Numspy import Way2sms
+from Numspy import Way2sms
 
-    w2s = Way2sms()
+w2s = Way2sms()
 
-    w2s.login(USERNAME, PASSWORD)
+w2s.login(USERNAME, PASSWORD)
 
-    w2s.send(MOBILE_NO, MSG)
+w2s.send(MOBILE_NO, MSG)
 
-    w2s.logout()
+w2s.logout()
 ```
 
 <b> Schedule SMS </b>
 
 ```
-    from numspy import Way2sms
+from numspy import Way2sms
 
-    w2s = Way2sms()
+w2s = Way2sms()
 
-    w2s.login(USERNAME, PASSWORD)
+w2s.login(USERNAME, PASSWORD)
 
-    w2s.schedule(MOBILE_NO, MSG, DATE, TIME)
-    # DATE should be in format DD/MM/YYYY and TIME in 24h HH:mm
+w2s.schedule(MOBILE_NO, MSG, DATE, TIME)
+# DATE should be in format DD/MM/YYYY and TIME in 24h HH:mm
 
-    w2s.logout()
+w2s.logout()
 ```
 
 <b> Find Details of any Mobile Number </b>
 
 ```
-    from numspy import Way2sms
+from numspy import Way2sms
 
-    w2s = Way2sms()
+w2s = Way2sms()
 
-    w2s.login(USERNAME, PASSWORD)
+w2s.login(USERNAME, PASSWORD)
 
-    w2s.details(MOBILE_NO)
+w2s.details(MOBILE_NO)
 
-    w2s.logout()Contributing
+w2s.logout()Contributing
 ```
 # Example 
 
