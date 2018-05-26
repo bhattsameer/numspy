@@ -6,11 +6,12 @@ A python module for sending free sms as well as finding details of mobile number
 <a href="http://www.way2sms.com">Way2sms</a>
 
 
-
+</hr>
 # Installation
 ```
 pip3 install numspy
 ```
+</hr>
 # Usage
 
 Send SMS
@@ -54,5 +55,5 @@ Find Details of a Mobile number
 
     w2s.logout()Contributing
 ```
-
+</hr>
 Feel free to make a pull request! :)
