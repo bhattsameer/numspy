@@ -78,7 +78,8 @@ urllib.request
 2. Run python3 numspy_example.py 
 
 </br>
-Feel free to make a pull request! :)</br>
+Feel free to make a pull request! :)
+</br>
 for more details visit check: 
 <a href="https://pypi.org/project/numspy/
 ">https://pypi.org/project/numspy/</a>
