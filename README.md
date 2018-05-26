@@ -13,6 +13,12 @@ pip3 install numspy
 <a href="https://pypi.org/project/numspy/
 ">https://pypi.org/project/numspy/</a>
 
+# Requirements
+```
+Way2sms account
+
+```
+
 # Usage
 
 Send SMS
