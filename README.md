@@ -35,9 +35,9 @@ from Numspy import Way2sms
 
 w2s = Way2sms()
 
-w2s.login(USERNAME, PASSWORD)
+w2s.login(Way2sms_Username, Way2sms_Password)
 
-w2s.send(MOBILE_NO, MSG)
+w2s.send(Mobile_Number, Message)
 
 w2s.logout()
 ```
@@ -49,26 +49,22 @@ from numspy import Way2sms
 
 w2s = Way2sms()
 
-w2s.login(USERNAME, PASSWORD)
+w2s.login(Way2sms_Username, Way2sms_Password)
 
-w2s.schedule(MOBILE_NO, MSG, DATE, TIME)
+w2s.schedule(Mobile_Number, Message, Date, Time)
 # DATE should be in format DD/MM/YYYY and TIME in 24h HH:mm
 
 w2s.logout()
 ```
 
-<b> Find Details of any Mobile Number </b>
+<b> Find Details of any Mobile Number -> Work even without Way2sms account</b>
 
 ```
 from numspy import Way2sms
 
 w2s = Way2sms()
 
-w2s.login(USERNAME, PASSWORD)
-
-w2s.details(MOBILE_NO)
-
-w2s.logout()Contributing
+w2s.details(Mobile_Number)
 ```
 # Example 
 
