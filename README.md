@@ -68,7 +68,7 @@ w2s.details(Mobile_Number)
 ```
 # Example 
 
-1. Upadate <a href="https://github.com/bhattsameer/numspy/blob/master/credentials.py">credentials.py</a> file with your way2sms
+1. Upadate <a href="https://github.com/bhattsameer/numspy/blob/master/Examples/credentials.py">credentials.py</a> file with your way2sms
    credentials.
 
 2. Run python3 numspy_example.py 
