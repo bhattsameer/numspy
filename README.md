@@ -70,6 +70,13 @@ urllib.request
 
     w2s.logout()Contributing
 ```
+# Example 
+
+1. Upadate <a href="https://github.com/bhattsameer/numspy/blob/master/credentials.py">credentials.py</a> file with your way2sms
+   credentials.
+
+2. Run python3 numspy_example.py 
+
 </br>
 Feel free to make a pull request! :)</br>
 for more details visit check: 
