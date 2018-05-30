@@ -7,7 +7,7 @@ A python module for sending free sms as well as finding details of mobile number
 
 
 # Installation
-```python
+```command
 pip3 install numspy
 ```
 <a href="https://pypi.org/project/numspy/
@@ -32,38 +32,28 @@ urllib.request
 
 ```python
 from Numspy import Way2sms
-
 w2s = Way2sms()
-
 w2s.login(Way2sms_Username, Way2sms_Password)
-
 w2s.send(Mobile_Number, Message)
-
 w2s.logout()
 ```
 
 <b> Schedule SMS </b>
 
-```
+```python
 from numspy import Way2sms
-
 w2s = Way2sms()
-
 w2s.login(Way2sms_Username, Way2sms_Password)
-
 w2s.schedule(Mobile_Number, Message, Date, Time)
 # DATE should be in format DD/MM/YYYY and TIME in 24h HH:mm
-
 w2s.logout()
 ```
 
 <b> Find Details of any Mobile Number -> Work even without Way2sms account</b>
 
-```
+```python
 from numspy import Way2sms
-
 w2s = Way2sms()
-
 w2s.details(Mobile_Number)
 ```
 # Example 
