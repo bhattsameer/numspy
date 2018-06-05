@@ -58,17 +58,15 @@ w2s.details(Mobile_Number)
 ```
 # Example 
 
-1. Upadate <a href="https://github.com/bhattsameer/numspy/blob/master/Examples/credentials.py">credentials.py</a> file with your way2sms
-   credentials.
+1. Upadate <a href="https://github.com/bhattsameer/numspy/blob/master/Examples/credentials.py">credentials.py</a> file with your way2sms credentials.
 
 2. Run python3 numspy_example.py 
 
 </br>
 Feel free to make a pull request! :)
 </br>
-for more details visit check: 
-<a href="https://pypi.org/project/numspy/
-">https://pypi.org/project/numspy/</a>
+for more details visit check: [https://pypi.org/project/numspy/](https://pypi.org/project/numspy/
+)
 
 # Credits:
  Logo : [Hariom Panchal](https://github.com/Hariompanchal)
