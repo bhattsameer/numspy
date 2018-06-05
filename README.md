@@ -69,3 +69,6 @@ Feel free to make a pull request! :)
 for more details visit check: 
 <a href="https://pypi.org/project/numspy/
 ">https://pypi.org/project/numspy/</a>
+
+# Credits:
+ Logo : [Hariom Panchal](https://github.com/Hariompanchal)
