@@ -10,8 +10,6 @@ A python module for sending free sms as well as finding details of mobile number
 ```command
 pip3 install numspy
 ```
-<a href="https://pypi.org/project/numspy/
-">https://pypi.org/project/numspy/</a>
 
 # Requirements
 ```
@@ -65,7 +63,7 @@ w2s.details(Mobile_Number)
 </br>
 Feel free to make a pull request! :)
 </br>
-for more details visit check: ![Project](https://pypi.org/project/numspy/)
+for more details visit check: https://pypi.org/project/numspy/
 
 # Also Visit
 
