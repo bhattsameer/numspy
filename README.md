@@ -65,12 +65,11 @@ w2s.details(Mobile_Number)
 </br>
 Feel free to make a pull request! :)
 </br>
-for more details visit check: [Project](https://pypi.org/project/numspy/
-)
+for more details visit check: ![Project](https://pypi.org/project/numspy/)
 
 # Also Visit
 
-NumSpy-Public API  : https://github.com/bhattsameer/numspy-api
+NumSpy-Public API  : https://github.com/bhattsameer/numspy-api </br>
 NumSpy-Android App : https://github.com/vkoshti/numspy-app
 
 # Credits:
