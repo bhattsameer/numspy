@@ -71,5 +71,5 @@ NumSpy-Public API  : https://github.com/bhattsameer/numspy-api </br>
 NumSpy-Android App : https://github.com/vkoshti/numspy-app
 
 # Credits:
-Thanks to Way2sms.
+Thanks to Way2sms.</br>
 Logo : [Hariom Panchal](https://github.com/Hariompanchal)
