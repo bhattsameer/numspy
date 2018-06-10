@@ -69,7 +69,7 @@ for more details visit check: https://pypi.org/project/numspy/
 
 NumSpy-Public API  : https://github.com/bhattsameer/numspy-api </br>
 NumSpy-Android App : https://github.com/vkoshti/numspy-app </br>
-NumSpy-Android App : https://github.com/vkoshti/numspy-react-app
+NumSpy-React App : https://github.com/vkoshti/numspy-react-app
 
 # Credits:
 Thanks to Way2sms.</br>
