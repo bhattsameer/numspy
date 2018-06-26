@@ -67,9 +67,9 @@ for more details visit check: https://pypi.org/project/numspy/
 
 # Also Visit
 
-NumSpy-Public API  : https://github.com/bhattsameer/numspy-api </br>
-NumSpy-Android App : https://github.com/vkoshti/numspy-app </br>
-NumSpy-React App : https://github.com/bhattsameer/numspy-react-app
+NumSpy-Public API  : [https://github.com/bhattsameer/numspy-api](https://github.com/bhattsameer/numspy-api) </b>
+NumSpy-Android App : [https://github.com/vkoshti/numspy-app](https://github.com/vkoshti/numspy-app) </br>
+NumSpy-React App   : [https://github.com/bhattsameer/numspy-react-app](https://github.com/bhattsameer/numspy-react-app)
 
 # Credits:
 Thanks to Way2sms.</br>
